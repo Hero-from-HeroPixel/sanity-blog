@@ -8,7 +8,7 @@ const devOnlyPlugins = [getStartedPlugin()]
 
 export default defineConfig({
   name: 'default',
-  title: 'skyblue-gnat',
+  title: 'heropixel-content',
 
   projectId: 'whhbfq4z',
   dataset: 'production',
